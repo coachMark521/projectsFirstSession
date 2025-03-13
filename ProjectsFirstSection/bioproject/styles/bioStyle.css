@@ -1,0 +1,62 @@
+
+* {
+    margin:2px;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #8f4141;
+    color: aliceblue;
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    color: darkblue;
+    background-color: blanchedalmond;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+article {
+    background-color: rgb(34, 13, 13);
+    padding: 2px;
+    margin-bottom: 10px;
+}
+
+.story {
+    padding: 4px;
+}
+
+.articleImage {
+    height: 120px;
+    width: 240px;
+    border-radius: 20px;
+}
+
+.articleImage:hover {
+    height: 240px;
+    width: 480px;
+    border-radius: 20px;
+}
+
+
+.center-text {
+    text-align: center;
+}
+
+.hiddenDiv {
+    display: none;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+#headcoach {
+    border: solid 5px rgb(34, 13, 13);
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+}
