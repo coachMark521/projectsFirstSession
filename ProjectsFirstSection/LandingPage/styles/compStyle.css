@@ -1,0 +1,30 @@
+
+* {
+    margin:2px;
+    padding:0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: cornsilk;
+}
+
+footer {
+    text-align: center;
+    background-color: darkred;
+    color:azure;
+    padding: 1em;
+    margin: 1em;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+#compInfo {
+    text-align: center;
+    background-color: darkred;
+    color:azure;
+    padding: 1em;
+    margin: 1em;
+}
